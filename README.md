@@ -1,4 +1,4 @@
-# B9122 Homework 2 Repository
+## Web Crawling Project
 
 Author: Buse Bahadir
 
